@@ -1,0 +1,1 @@
+ive been working on the code and so far I have found a way to identify the handedness of the user. this allows me to only identify if the left hand is taping fingers as a click instead of wichever hand is first. after this I want to add a label to each of the hands using a bounding box
